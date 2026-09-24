@@ -1,31 +1,68 @@
-# Personal Budget & Expense Tracker
 
-This is my Week 2 Personal Budget & Expense Tracker project.
+# Budget Tracker
 
-## What I Built
+## Project Description
 
-I added an expense table with five sample expenses.
+This project is a Budget Tracker that allows users to add and view their expenses. For this week's visual design challenge, I improved the existing Budget Tracker using CSS without adding new HTML structure or functionality.
 
-I also upgraded the Add Expense form with:
+## Visual Design
 
-* Expense Name
-* Amount
-* Category
-* Date
-* Add Expense button
+### Color Palette
 
-The category dropdown contains:
+I used a small and consistent color palette:
 
-* Food
-* Transport
-* Rent
-* Entertainment
-* Other
+* Navy blue for headings and table headers
+* Teal for buttons and accent elements
+* Light gray for the page background
+* White for the cards and table
 
-I also added CSS styling, table borders, alternating row colors, hover effects, and input focus effects.
+### Typography
+
+I used Google Fonts to improve readability and visual hierarchy:
+
+* Poppins for headings
+* DM Sans for body text, forms, buttons, and table content
+
+### Form Styling
+
+The Add Expense form was styled with:
+
+* Internal padding
+* Borders
+* Rounded corners
+* Consistent input styling
+* A cohesive button design
+* Focus effects for form inputs
+
+### Expense Table
+
+The expense table includes:
+
+* A dark styled header
+* Padding inside table cells
+* Borders between rows
+* Alternating row colors
+* Hover effects
+* Rounded corners
+
+### CSS Box Model
+
+I used the CSS box model throughout the application:
+
+* Margin to separate sections
+* Padding to create internal spacing
+* Borders to define sections
+* Border-radius to create rounded cards
+* Box shadows to visually separate cards from the background
 
 ## Files
 
-* `index.html` - Contains the structure and content of the website.
-* `style.css` - Contains the styling of the website.
-* `README.md` - Explains the project and its features.
+* `index.html` - Contains the existing Budget Tracker structure.
+* `style.css` - Contains the visual styling and layout improvements.
+* `README.md` - Explains the project and the visual design choices.
+
+## Technologies Used
+
+* HTML
+* CSS
+* Google Fonts
